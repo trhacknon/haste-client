@@ -45,7 +45,7 @@ haste file --raw
 By default, haste will point at `https://hastebin.com`.  You can change this by setting the value of `ENV['HASTE_SERVER']` to the URL of your haste server.  You can also use `alias` to make easy shortcuts if you commonly use a few hastes intermingled with each other.  To do that, you'd put something like this into ~.bash_profile:
 
 ``` bash
-alias work_haste="HASTE_SERVER=https://something.com haste"
+alias work_haste="HASTE_SERVER=https://hastebytrhacknon.trhacknon.repl.co haste"
 ```
 
 After which you can use `work_haste` to send hastes to that server instead.
