@@ -4,7 +4,7 @@ require 'uri'
 
 module Haste
 
-  DEFAULT_URL = 'https://hastebin.com'
+  DEFAULT_URL = 'https://hastebytrhacknon.trhacknon.repl.co'
 
   class Uploader
 
