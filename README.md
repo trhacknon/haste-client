@@ -87,7 +87,7 @@ Han Boetes and @nickthename have contributed a simple shell-script alternative f
 
 ``` bash
 haste() {
-    local S="https" H="hastebin.com" P="" L="$1"
+    local S="https" H="hastebytrhacknon.trhacknon.repl.co" P="" L="$1"
     local SHP="${S}://${H}${P}/"
     curl -X POST -s --data-binary @- "${SHP}documents" \
       | awk -F '"' 'b{ b="."b }; {print a$4b}' a="${SHP}" b="${L}"
@@ -112,7 +112,7 @@ https://github.com/trhacknon/standalones/blob/master/hastebin.sh
 
 (The MIT License)
 
-Copyright © 2011 John Crepezzi
+Copyright © 2022 trhacknon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ‘Software’), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
