@@ -105,7 +105,7 @@ xsel -b | haste txt      # Output clipboard buffer into haste, ensure no highlig
 ```
 
 And a more expansive BASH option by @diethnis can be found at:
-https://github.com/diethnis/standalones/blob/master/hastebin.sh
+https://github.com/trhacknon/standalones/blob/master/hastebin.sh
 
 
 ## License
