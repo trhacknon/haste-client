@@ -1,6 +1,6 @@
 # Haste Client
 
-[![Build Status](https://secure.travis-ci.org/seejohnrun/haste-client.png)](http://travis-ci.org/seejohnrun/haste-client)
+[![Build Status](https://secure.travis-ci.org/trhacknon/haste-client.png)](http://travis-ci.org/trhacknon/haste-client)
 
 haste-client is a simple client for uploading data to haste-server.  All you do it pipe data in STDIN:
 
@@ -107,9 +107,6 @@ xsel -b | haste txt      # Output clipboard buffer into haste, ensure no highlig
 And a more expansive BASH option by @diethnis can be found at:
 https://github.com/diethnis/standalones/blob/master/hastebin.sh
 
-## Author
-
-John Crepezzi <john.crepezzi@gmail.com>
 
 ## License
 
