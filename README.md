@@ -17,8 +17,8 @@ after which the contents of `file` will be accessible at a URL which has been co
 
 ## Installation
 
-``` bash
-gem install haste
+```
+bash create.sh
 ```
 
 ## Making uploading file contents easier
